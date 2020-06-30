@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613784441002",
+    "firebase_url": "https://testmsg-a62e0.firebaseio.com",
+    "project_id": "testmsg-a62e0",
+    "storage_bucket": "testmsg-a62e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613784441002:android:3361edeb73dc9b733fc0d3",
+        "android_client_info": {
+          "package_name": "com.google.FirebaseUnityMessagingTestApp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613784441002-ov1p6mibnme8fisgtsu83h5tjiic8e94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.FirebaseUnityMessagingTestApp.dev",
+            "certificate_hash": "9748454382dd515e461336756c6c5e4c0f5dff0e"
+          }
+        },
+        {
+          "client_id": "613784441002-c68gecqt128q03n4ovf7p2sel1c59qtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNOSMnbpSzFLAkQdyyLu9nU4_XfUjGI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613784441002-c68gecqt128q03n4ovf7p2sel1c59qtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
