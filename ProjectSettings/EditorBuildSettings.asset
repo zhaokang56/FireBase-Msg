@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Firebase/Sample/Messaging/MainScene.unity
+    path: Assets/Extend/Firebase/Sample/Messaging/MainScene.unity
     guid: b7b85896d8bb0654babfe4c9b4f7cc1d
   m_configObjects: {}

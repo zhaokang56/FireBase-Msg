@@ -63,10 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Firebase\Sample\Messaging\UIHandler.cs" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-messaging-unity\maven-metadata.xml" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\maven-metadata.xml" />
+    <Compile Include="Assets\Extend\Firebase\Sample\Messaging\UIHandler.cs" />
+    <None Include="Assets\Extend\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
+    <None Include="Assets\Extend\Firebase\m2repository\com\google\firebase\firebase-messaging-unity\maven-metadata.xml" />
+    <None Include="Assets\Extend\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\maven-metadata.xml" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -265,29 +265,29 @@
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
-    <Reference Include="Firebase.Analytics">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.App">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Messaging">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Firebase.Messaging.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Platform">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.TaskExtension">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.MiniJson">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Compat">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
-      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Analytics">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Firebase.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Messaging">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Firebase.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Platform">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.TaskExtension">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>C:/Users/13135/Desktop/TestFCM/FireBase-Msg/Assets/Extend/Firebase/Plugins/Google.MiniJson.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
